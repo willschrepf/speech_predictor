@@ -9,7 +9,7 @@ def get_user_tweets(username):
 
     # iteratively collect tweet data
     for i,tweet in enumerate(sntwitter.TwitterSearchScraper(f'from:{username}').get_items()):
-        if i>1000:
+        if i>250:
             break
         list.append([tweet.date, tweet.id, tweet.content, tweet.user.username])
 
@@ -17,7 +17,7 @@ def get_user_tweets(username):
     df = pd.DataFrame(list, columns=['Datetime', 'Tweet Id', 'Text', 'Username'])
 
     # write to csv for R analysis
-    df.to_csv(f"data/{username}.csv", encoding='utf-8')
+    df.to_csv(f"test_data/{username}.csv", encoding='utf-8')
     print(f"Finished {username} scrape.")
 
 # same function, but to get up to 10,000 tweets from a given hashtag for a given time period
@@ -34,5 +34,4 @@ def get_hashtag_tweets(hashtag, from_date, to_date):
     df = pd.DataFrame(list, columns=['Datetime', 'Tweet Id', 'Text', 'Username'])
 
     df.to_csv(f"data/{hashtag}.csv", encoding='utf-8')
-
 

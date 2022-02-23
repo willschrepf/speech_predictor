@@ -1,0 +1,540 @@
+﻿moc_id,state_district,chamber,name,party,twitter_handle
+1,Alabama,U.S. Senator,"Shelby, Richard",R,@SenShelby
+2,Alabama,U.S. Senator,"Tuberville, Tommy",R,@Ttuberville
+3,Alabama 1st District,U.S. Representative,"Carl, Jerry",R,@RepJerryCarl
+4,Alabama 2nd District,U.S. Representative,"Moore, Barry",R,@RepBarryMoore
+5,Alabama 3rd District,U.S. Representative,"Rogers, Mike",R,@RepMikeRogers
+6,Alabama 4th District,U.S. Representative,"Aderholt, Robert",R,@Robert_Aderholt
+7,Alabama 5th District,U.S. Representative,"Brooks, Mo",R,@RepMoBrooks
+8,Alabama 6th District,U.S. Representative,"Palmer, Gary",R,@USRepGaryPalmer
+9,Alabama 7th District,U.S. Representative,"Sewell, Terri A.",D,@RepTerriSewell
+10,Alaska,U.S. Senator,"Sullivan, Dan",R,@SenDanSullivan
+11,Alaska,U.S. Senator,"Murkowski, Lisa",R,@lisamurkowski
+12,Alaska At-Large,U.S. Representative,"Young, Don",R,@RepDonYoung
+13,American Samoa At-Large,U.S. Representative,"Radewagen, Amata",R,@RepAmata
+14,Arizona,U.S. Senator,"Kelly, Mark",D,@SenMarkKelly
+15,Arizona,U.S. Senator,"Sinema, Kyrsten",D,@SenatorSinema
+16,Arizona 1st District,U.S. Representative,"O'Halleran, Tom",D,@TomOHalleran
+17,Arizona 2nd District,U.S. Representative,"Kirkpatrick, Ann",D,@RepKirkPatrick
+18,Arizona 3rd District,U.S. Representative,"Grijalva, Raul",D,@RepRaulGrijalva
+19,Arizona 4th District,U.S. Representative,"Gosar, Paul A.",R,@RepGosar
+20,Arizona 5th District,U.S. Representative,"Biggs, Andy",R,@AndyBiggs4AZ
+21,Arizona 6th District,U.S. Representative,"Schweikert, David",R,@RepDavid
+22,Arizona 7th District,U.S. Representative,"Gallego, Ruben",D,@RepRubenGallego
+23,Arizona 8th District,U.S. Representative,"Lesko, Debbie ",R,@RepDLesko
+24,Arizona 9th District,U.S. Representative,"Stanton, Greg",D,@RepGregStanton
+25,Arkansas,U.S. Senator,"Cotton, Tom",R,@SenTomCotton
+26,Arkansas,U.S. Senator,"Boozman, John",R,@JohnBoozman
+27,Arkansas 1st District,U.S. Representative,"Crawford, Rick",R,@RepRickCrawford
+28,Arkansas 2nd District,U.S. Representative,"Hill, French",R,@RepFrenchHill
+29,Arkansas 3rd District,U.S. Representative,"Womack, Steve",R,@rep_stevewomack
+30,Arkansas 4th District,U.S. Representative,"Westerman, Bruce",R,@RepWesterman
+31,California,U.S. Senator,"Feinstein, Dianne",D,@SenFeinstein
+32,California,U.S. Senator,"Padilla, Alex",D,@KamalaHarris
+33,California 1st District,U.S. Representative,"LaMalfa, Doug",R,@RepLaMalfa
+34,California 2nd District,U.S. Representative,"Huffman, Jared",D,@RepHuffman
+35,California 3rd District,U.S. Representative,"Garamendi, John",D,@RepGaramendi
+36,California 4th District,U.S. Representative,"McClintock, Tom",R,@RepMcClintock
+37,California 5th District,U.S. Representative,"Thompson, Mike",D,@RepThompson
+38,California 6th District,U.S. Representative,"Matsui, Doris O.",D,@DorisMatsui
+39,California 7th District,U.S. Representative,"Bera, Ami",D,@RepBera
+40,California 8th District,U.S. Representative,"Obernolte, Jay",R,@JayObernolte
+41,California 9th District,U.S. Representative,"McNerney, Jerry",D,@RepMcNerney
+42,California 10th District,U.S. Representative,"Harder, Josh",D,@RepJoshHarder
+43,California 11th District,U.S. Representative,"DeSaulnier, Mark",D,@RepDeSaulnier
+44,California 12th District,U.S. Representative,"Pelosi, Nancy",D,@SpeakerPelosi
+45,California 13th District,U.S. Representative,"Lee, Barbara",D,@RepBarbaraLee
+46,California 14th District,U.S. Representative,"Speier, Jackie",D,@RepSpeier
+47,California 15th District,U.S. Representative,"Swalwell, Eric",D,@RepSwalwell
+48,California 16th District,U.S. Representative,"Costa, Jim",D,@RepJimCosta
+49,California 17th District,U.S. Representative,"Khanna, Ro",D,@RoKhannaUSA
+50,California 18th District,U.S. Representative,"Eshoo, Anna G.",D,@RepAnnaEshoo
+51,California 19th District,U.S. Representative,"Lofgren, Zoe",D,@RepZoeLofgren
+52,California 20th District,U.S. Representative,"Panetta, Jimmy",D,@JimmyPanetta
+53,California 21st District,U.S. Representative,"Valadao, David",R,@RepDavidValadao
+54,California 22nd District,U.S. Representative,Vacant,,
+55,California 23rd District,U.S. Representative,"McCarthy, Kevin",R,@GOPLeader
+56,California 24th District,U.S. Representative,"Carbajal, Salud",D,@CarbajalSalud
+57,California 25th District,U.S. Representative,"Garcia, Mike",R,@MikeGarcia2020
+58,California 26th District,U.S. Representative,"Brownley, Julia",D,@RepBrownley
+59,California 27th District,U.S. Representative,"Chu, Judy",D,@RepJudyChu
+60,California 28th District,U.S. Representative,"Schiff, Adam",D,@RepAdamSchiff
+61,California 29th District,U.S. Representative,"Cárdenas, Tony",D,@RepCardenas
+62,California 30th District,U.S. Representative,"Sherman, Brad",D,@BradSherman
+63,California 31st District,U.S. Representative,"Aguilar, Pete",D,@RepPeteAguilar
+64,California 32nd District,U.S. Representative,"Napolitano, Grace",D,@gracenapolitano
+65,California 33rd District,U.S. Representative,"Lieu, Ted",D,@RepTedLieu
+66,California 34th District,U.S. Representative,"Gomez, Jimmy",D,@RepJimmyGomez
+67,California 35th District,U.S. Representative,"Torres, Norma",D,@NormaJTorres
+68,California 36th District,U.S. Representative,"Ruiz, Raul",D,@RepRaulRuizMD
+69,California 37th District,U.S. Representative,"Bass, Karen",D,@RepKarenBass
+70,California 38th District,U.S. Representative,"Sánchez, Linda",D,@RepLindaSanchez
+71,California 39th District,U.S. Representative,"Kim, Young",R,@YoungKimCA
+72,California 40th District,U.S. Representative,"Roybal-Allard, Lucille",D,@RepRoybalAllard
+73,California 41st District,U.S. Representative,"Takano, Mark",D,@RepMarkTakano
+74,California 42nd District,U.S. Representative,"Calvert, Ken",R,@KenCalvert
+75,California 43rd District,U.S. Representative,"Waters, Maxine",D,@MaxineWaters
+76,California 44th District,U.S. Representative,"Barragan, Nanette",D,@Nanette4CA
+77,California 45th District,U.S. Representative,"Porter, Katie",D,@RepKatiePorter
+78,California 46th Division,U.S. Representative,"Correa, Lou",D,@RepLouCorrea
+79,California 47th District,U.S. Representative,"Lowenthal, Alan",D,@RepLowenthal
+80,California 48th District,U.S. Representative,"Steel, Michelle",R,@MichelleSteelCA
+81,California 49th District,U.S. Representative,"Levin, Mike",D,@RepMikeLevin
+82,California 50th District,U.S. Representative,"Issa, Darrell",R,@DarrellIssa
+83,California 51st District,U.S. Representative,"Vargas, Juan",D,@RepJuanVargas
+84,California 52nd District,U.S. Representative,"Peters, Scott",D,@RepScottPeters
+85,California 53rd District,U.S. Representative,"Jacobs, Sara",D,@SaraJacobsCA
+86,Colorado,U.S. Senator,"Bennet, Michael",D,@MichaelBennet
+87,Colorado,U.S. Senator,"Hickenlooper, John",D,@SenatorHick
+88,Colorado 1st District,U.S. Representative,"DeGette, Diana",D,@RepDianaDeGette
+89,Colorado 2nd District,U.S. Representative,"Neguse, Joe",R,@RepJoeNeguse
+90,Colorado 3rd District,U.S. Representative,"Boebert, Lauren",R,@laurenboebert
+91,Colorado 4th District,U.S. Representative,"Buck, Ken",R,@RepKenBuck
+92,Colorado 5th District,U.S. Representative,"Lamborn, Doug",R,@RepDLamborn
+93,Colorado 6th District,U.S. Representative,"Crow, Jason",D,@RepJasonCrow
+94,Colorado 7th District,U.S. Representative,"Perlmutter, Ed",D,@RepPerlmutter
+95,Connecticut,U.S. Senator,"Murphy, Chris",D,@ChrisMurphyCT
+96,Connecticut,U.S. Senator,"Blumenthal, Richard",D,@SenBlumenthal
+97,Connecticut 1st District,U.S. Representative,"Larson, John B.",D,@RepJohnLarson
+98,Connecticut 2nd District,U.S. Representative,"Courtney, Joe",D,@RepJoeCourtney
+99,Connecticut 3rd District,U.S. Representative,"DeLauro, Rosa L.",D,@rosadelauro
+100,Connecticut 4th District,U.S. Representative,"Himes, Jim",D,@jahimes
+101,Connecticut 5th District,U.S. Representative,"Hayes, Jahana",D,@RepJahanaHayes
+102,Delaware,U.S. Senator,"Coons, Chris",D,@SenCoonsOffice
+103,Delaware,U.S. Senator,"Carper, Tom",D,@SenatorCarper
+104,Delaware At-Large,U.S. Representative,"Blunt Rochester, Lisa",D,@LisaBRochester
+105,District of Columbia At-Large,U.S. Representative,"Norton, Eleanor Holmes",D,@EleanorNorton
+106,Florida,U.S. Senator,"Rubio, Marco",R,@marcorubio
+107,Florida,U.S. Senator,"Scott, Rick",R,@ScottforFlorida
+108,Florida 1st District,U.S. Representative,"Gaetz, Matt",R,@MattGaetz
+109,Florida 2nd District,U.S. Representative,"Dunn, Neal",R,@DrNealDunnFL2
+110,Florida 3rd District,U.S. Representative,"Cammack, Kat",R,@Kat_Cammack
+111,Florida 4th District,U.S. Representative,"Rutherford, John",R,@JRutherfordFL
+112,Florida 5th District,U.S. Representative,"Lawson, Al",D,@AlLawsonJr
+113,Florida 6th District,U.S. Representative,"Waltz, Michael",R,@RepMichaelWaltz
+114,Florida 7th District,U.S. Representative,"Murphy, Stephanie",D,@SMurphyCongress
+115,Florida 8th District,U.S. Representative,"Posey, Bill",R,@congbillposey
+116,Florida 9th District,U.S. Representative,"Soto, Darren",D,@RepDarrenSoto
+117,Florida 10th District,U.S. Representative,"Demings, Val",D,@Val_Demings
+118,Florida 11th District,U.S. Representative,"Webster, Daniel",R,@RepWebster
+119,Florida 12th District,U.S. Representative,"Bilirakis, Gus M.",R,@RepGusBilirakis
+120,Florida 13th District,U.S. Representative,"Crist, Charlie",D,@CharlieCrist
+121,Florida 14th District,U.S. Representative,"Castor, Kathy",D,@USRepKCastor
+122,Florida 15th District,U.S. Representative,"Franklin, Scott",R,@ScottFranklinFL
+123,Florida 16th District,U.S. Representative,"Buchanan, Vern",R,@VernBuchanan
+124,Florida 17th District,U.S. Representative,"Steube, W. Gregory",R,@RepGregSteube
+125,Florida 18th District,U.S. Representative,"Mast, Brian",R,@BrianMastFL
+126,Florida 19th District,U.S. Representative,"Donalds, Bryron",R,@ByronDonalds
+127,Florida 20th District,U.S. Representative,"Cherfilus-McCormick, Sheila",D,@CongresswomanSC
+128,Florida 21st District,U.S. Representative,"Frankel, Lois",D,@RepLoisFrankel
+129,Florida 22nd District,U.S. Representative,"Deutch, Ted",D,@RepTedDeutch
+130,Florida 23rd District,U.S. Representative,"Wasserman Schultz, Debbie",D,@RepDWStweets
+131,Florida 24th District,U.S. Representative,"Wilson, Frederica",D,@RepWilson
+132,Florida 25th District,U.S. Representative,"Diaz-Balart, Mario",R,@MarioDB
+133,Florida 26th District,U.S. Representative,"Giménez, Carlos",R,@RepCarlos
+134,Florida 27th District,U.S. Representative,"Salazar, Maria Elvira",R,@MaElviraSalazar
+135,Georgia,U.S. Senator,"Ossoff, Jon",D,@ossoff
+136,Georgia,U.S. Senator,"Warnock, Raphael",D,@ReverendWarnock
+137,Georgia 1st District,U.S. Representative,"Carter, Buddy",R,@RepBuddyCarter
+138,Georgia 2nd District,U.S. Representative,"Bishop Jr., Sanford D.",D,@SanfordBishop
+139,Georgia 3rd District,U.S. Representative,"Ferguson, Drew",R,@DrewFergusonGA
+140,Georgia 4th District,U.S. Representative,"Johnson, Henry C. “Hank” Jr.",D,@RepHankJohnson
+141,Georgia 5th District,U.S. Representative,"Williams, Nikema",D,@NikemaWilliams
+142,Georgia 6th District,U.S. Representative,"McBath, Lucy",D,@RepLucyMcBath
+143,Georgia 7th District,U.S. Representative,"Bourdeaux, Carolyn",D,@RepBourdeaux
+144,Georgia 8th District,U.S. Representative,"Scott, Austin",R,@AustinScottGA08
+145,Georgia 9th District,U.S. Representative,"Clyde, Andrew",R,
+146,Georgia 10th District,U.S. Representative,"Hice, Jody",R,@CongressmanHice
+147,Georgia 11th District,U.S. Representative,"Loudermilk, Barry",R,@RepLoudermilk
+148,Georgia 12th District,U.S. Representative,"Allen, Rick",R,@RepRickAllen
+149,Georgia 13th District,U.S. Representative,"Scott, David",D,@repdavidscott
+150,Georgia 14th District,U.S. Representative,"Greene, Marjorie Taylor",R,@mtgreenee
+151,Guam At-Large,U.S. Representative,"San Nicolas, Michael F.Q.",D,@GuamCongressman
+152,Hawaii,U.S. Senator,"Schatz, Brian",D,@SenBrianSchatz
+153,Hawaii,U.S. Senator,"Hirono, Mazie",D,@maziehirono
+154,Hawaii 1st District,U.S. Representative,"Case, Ed",D,@RepEdCase
+155,Hawaii 2nd District,U.S. Representative,"Kahele, Kai",D,@kaikahele
+156,Idaho,U.S. Senator,"Risch, Jim",R,@SenatorRisch
+157,Idaho,U.S. Senator,"Crapo, Mike",R,@MikeCrapo
+158,Idaho 1st District,U.S. Representative,"Fulcher, Russ",R,@RepRussFulcher
+159,Idaho 2nd District,U.S. Representative,"Simpson, Mike",R,@CongMikeSimpson
+160,Illinois,U.S. Senator,Tammy Duckwort,D,@SenDuckworth
+161,Illinois,U.S. Senator,"Durbin, Richard",D,@SenatorDurbin
+162,Illinois 1st District,U.S. Representative,"Rush, Bobby L.",D,@RepBobbyRush
+163,Illinois 2nd District,U.S. Representative,"Kelly, Robin",D,@RepRobinKelly
+164,Illinois 3rd District,U.S. Representative,"Newman, Marie",D,@RepMarieNewman
+165,Illinois 4th District,U.S. Representative,"Garcia, Jesus “Chuy”",D,@RepChuyGarcia
+166,Illinois 5th District,U.S. Representative,"Quigley, Mike",D,@RepMikeQuigley
+167,Illinois 6th District,U.S. Representative,"Casten, Sean",D,@RepCasten
+168,Illinois 7th District,U.S. Representative,"Davis, Danny K.",D,@RepDannyDavis
+169,Illinois 8th District,U.S. Representative,"Krishnamoorthi, Raja",D,@RajaForCongress
+170,Illinois 9th District,U.S. Representative,"Schakowsky, Jan",D,@janschakowsky
+171,Illinois 10th District,U.S. Representative,"Schneider, Bradley",D,@RepSchneider
+172,Illinois 11th District,U.S. Representative,"Foster, Bill",D,@RepBillFoster
+173,Illinois 12th District,U.S. Representative,"Bost, Mike",R,@RepBost
+174,Illinois 13th District,U.S. Representative,"Davis, Rodney",R,@RodneyDavis
+175,Illinois 14th District,U.S. Representative,"Underwood, Lauren",D,@RepUnderwood
+176,Illinois 15th District,U.S. Representative,"Miller, Mary",R,@RepMaryMiller
+177,Illinois 16th District,U.S. Representative,"Kinzinger, Adam",R,@RepKinzinger
+178,Illinois 17th District,U.S. Representative,"Bustos, Cheri",D,@RepCheri
+179,Illinois 18th District,U.S. Representative,"LaHood,Darin",R,@ElectLaHood
+180,Indiana,U.S. Senator,"Braun, Mike",R,@Braun4Indiana
+181,Indiana,U.S. Senator,"Young, Todd",R,@SenToddYoung
+182,Indiana 1st District,U.S. Representative,"Mrvan, Frank",D,@RepMrvan
+183,Indiana 2nd District,U.S. Representative,"Walorski, Jackie",R,@RepWalorski
+184,Indiana 3rd District,U.S. Representative,"Banks, Jim",R,@Jim_Banks
+185,Indiana 4th District,U.S. Representative,"Baird, James",R,@RepJimBaird
+186,Indiana 5th District,U.S. Representative,"Spartz, Victoria",R,@Victoria_Spartz
+187,Indiana 6th District,U.S. Representative,"Pence, Greg",R,@RepGregPence
+188,Indiana 7th District,U.S. Representative,"Carson, André",D,@RepAndreCarson
+189,Indiana 8th District,U.S. Representative,"Bucshon, Larry",R,@RepLarryBucshon
+190,Indiana 9th District,U.S. Representative,"Hollingsworth, Trey",R,@VoteForTrey
+191,Iowa,U.S. Senator,"Grassley, Chuck",R,@ChuckGrassley
+192,Iowa,U.S. Senator,Joni Ernst,R,@SenJoniErnst
+193,Iowa 1st District,U.S. Representative,"Hinson, Ashley",R,@RepAshleyHinson
+194,Iowa 2nd District,U.S. Representative,"Miller-Meeks, Mariannette",R,@RepMMM
+195,Iowa 3rd District,U.S. Representative,"Axne, Cynthia",D,@RepCindyAxne
+196,Iowa 4th District,U.S. Representative,"Feenstra, Randy",R,@RandyFeenstra
+197,Kansas,U.S. Senator,"Marshall, Roger",R,@RogerMarshallMD
+198,Kansas,U.S. Senator,"Moran, Jerry",R,@JerryMoran
+199,Kansas 1st District,U.S. Representative,"Mann, Tracey",R,@TraceyMannKS
+200,Kansas 2nd District,U.S. Representative,"LaTurner, Jake",R,@JakeLaTurner
+201,Kansas 3rd District,U.S. Representative,"Davids, Sharice",D,@sharicedavids
+202,Kansas 4th District,U.S. Representative,"Estes, Ron",R,@RepRonEstes
+203,Kentucky,U.S. Senator,"Paul, Rand",R,@RandPaul
+204,Kentucky,U.S. Senator,"McConnell, Mitch",R,@McConnellPress
+205,Kentucky 1st District,U.S. Representative,"Comer, James",R,@JamesComer
+206,Kentucky 2nd District,U.S. Representative,"Guthrie, S. Brett",R,@RepGuthrie
+207,Kentucky 3rd District,U.S. Representative,"Yarmuth, John A.",D,@RepJohnYarmuth
+208,Kentucky 4th District,U.S. Representative,"Massie, Thomas",R,@RepThomasMassie
+209,Kentucky 5th District,U.S. Representative,"Rogers, Harold",R,@RepHalRogers
+210,Kentucky 6th District,U.S. Representative,"Barr, Andy",R,@RepAndyBarr
+211,Louisiana,U.S. Senator,"Kennedy, John",R,@JohnKennedyLA
+212,Louisiana,U.S. Senator,"Cassidy, Bill",R,@BillCassidy
+213,Louisiana 1st District,U.S. Representative,"Scalise, Steve",R,@SteveScalise
+214,Louisiana 2nd District,U.S. Representative,"Richmond, Cedric",D,@RepRichmond
+215,Louisiana 3rd District,U.S. Representative,"Higgins, Clay",R,@CaptClayHIggins
+216,Louisiana 4th District,U.S. Representative,"Johnson, Mike",R,@RepMikeJohnson
+217,Louisiana 5th District,U.S. Representative,"Letlow, Julia",R,@jbletlow
+218,Louisiana 6th District,U.S. Representative,"Graves, Garret",R,@RepGarretGraves
+219,Maine,U.S. Senator,"Collins, Susan",R,@SenatorCollins
+220,Maine 1st District,U.S. Representative,"Pingree, Chellie",D,@chelliepingree
+221,Maine 2nd District,U.S. Representative,"Golden, Jared",D,@RepGolden
+222,Maryland,U.S. Senator,"Van Hollen, Chris",D,@ChrisVanHollen
+223,Maryland,U.S. Senator,"Cardin, Benjamin",D,@SenatorCardin
+224,Maryland 1st District,U.S. Representative,"Harris, Andy",R,@RepAndyHarrisMD
+225,Maryland 2nd District,U.S. Representative,"Ruppersberger, C. A. Dutch",D,@Call_Me_Dutch
+226,Maryland 3rd District,U.S. Representative,"Sarbanes, John P.",D,@RepSarbanes
+227,Maryland 4th District,U.S. Representative,"Brown, Anthony",D,@RepAnthonyBrown
+228,Maryland 5th District,U.S. Representative,"Hoyer, Steny H.",D,@LeaderHoyer
+229,Maryland 6th District,U.S. Representative,"Trone, David",D,@RepDavidTrone
+230,Maryland 7th District,U.S. Representative,"Mfume, Kweisi",D,@Mfume4Congress
+231,Maryland 8th District,U.S. Representative,"Raskin, Jamie",D,@Jamie_Raskin
+232,Massachusetts,U.S. Senator,"Warren, Elizabeth",D,@SenWarren
+233,Massachusetts,U.S. Senator,"Markey, Edward",D,@SenMarkey
+234,Massachusetts 1st District,U.S. Representative,"Neal, Richard E.",D,@RepRichardNeal
+235,Massachusetts 2nd District,U.S. Representative,"McGovern, James",D,@RepMcGovern
+236,Massachusetts 3rd District,U.S. Representative,"Trahan, Lori",D,@RepLoriTrahan
+237,Massachusetts 4th District,U.S. Representative,"Auchincloss, Jake",D,@JakeAuch
+238,Massachusetts 5th District,U.S. Representative,"Clark, Katherine",D,@RepKClark
+239,Massachusetts 6th District,U.S. Representative,"Moulton, Seth",D,@teammoulton
+240,Massachusetts 7th District,U.S. Representative,"Pressley, Ayanna",D,@RepPressley
+241,Massachusetts 8th District,U.S. Representative,"Lynch, Stephen F.",D,@RepStephenLynch
+242,Massachusetts 9th District,U.S. Representative,"Keating, William",D,@USRepKeating
+243,Michigan,U.S. Senator,"Stabenow, Debbie",D,@SenStabenow
+244,Michigan,U.S. Senator,"Peters, Gary",D,@SenGaryPeters
+245,Michigan 1st District,U.S. Representative,"Bergman, Jack",R,@JackBergman_MI1
+246,Michigan 2nd District,U.S. Representative,"Huizenga, Bill",R,@RepHuizenga
+247,Michigan 3rd District,U.S. Representative,"Meijer, Peter",R,@VoteMeijer
+248,Michigan 4th District,U.S. Representative,"Moolenaar, John",R,@RepMoolenaar
+249,Michigan 5th District,U.S. Representative,"Kildee, Daniel",D,@RepDanKildee
+250,Michigan 6th District,U.S. Representative,"Upton, Fred",R,@RepFredUpton
+251,Michigan 7th District,U.S. Representative,"Walberg, Tim",R,@RepWalberg
+252,Michigan 8th District,U.S. Representative,"Slotkin, Elissa",D,@RepSlotkin
+253,Michigan 9th District,U.S. Representative,"Levin, Andy",D,@RepAndyLevin
+254,Michigan 10th District,U.S. Representative,"McClain, Lisa",R,@LisaForCongress
+255,Michigan 11th District,U.S. Representative,"Stevens, Haley",D,@RepHaleyStevens
+256,Michigan 12th District,U.S. Representative,"Dingell, Debbie",D,@RepDebDingell
+257,Michigan 13th District,U.S. Representative,"Tlaib, Rashida",D,@RepRashida
+258,Michigan 14th District,U.S. Representative,"Lawrence, Brenda",D,@RepLawrence
+259,Minnesota,U.S. Senator,"Klobuchar, Amy",D,@amyklobuchar
+260,Minnesota,U.S. Senator,"Smith, Tina",D,@SenTinaSmith
+261,Minnesota 1st District,U.S. Representative,"Hagedorn, Jim",R,@RepHagedorn
+262,Minnesota 2nd District,U.S. Representative,"Craig, Angie",D,@RepAngieCraig
+263,Minnesota 3rd District,U.S. Representative,"Phillips, Dean",D,@RepDeanPhillips
+264,Minnesota 4th District,U.S. Representative,"McCollum, Betty",D,@BettyMcCollum04
+265,Minnesota 5th District,U.S. Representative,"Omar, Ilhan",D,@IlhanMN
+266,Minnesota 6th District,U.S. Representative,"Emmer, Tom",R,@RepTomEmmer
+267,Minnesota 7th District,U.S. Representative,"Fischbach, Michelle",R,@FischbachMN7
+268,Minnesota 8th District,U.S. Representative,"Stauber, Pete",R,@RepPeteStauber
+269,Mississippi,U.S. Senator,"Wicker, Roger",R,@SenatorWicker
+270,Mississippi,U.S. Senator,"Hyde-Smith, Cindy",R,@SenHydeSmith
+271,Mississippi 1st District,U.S. Representative,"Kelly, Trent",R,@RepTrentKelly
+272,Mississippi 2nd District,U.S. Representative,"Thompson, Bennie G.",D,@BennieGThompson
+273,Mississippi 3rd District,U.S. Representative,"Guest, Michael",R,@RepMichaelGuest
+274,Mississippi 4th District,U.S. Representative,"Palazzo, Steven",R,@CongPalazzo
+275,Missouri,U.S. Senator,"Hawley, Josh",R,@HawleyMO
+276,Missouri,U.S. Senator,"Blunt, Roy",R,@RoyBlunt
+277,Missouri 1st District,U.S. Representative,"Bush, Cori",D,@CoriBush
+278,Missouri 2nd District,U.S. Representative,"Wagner, Ann",R,@RepAnnWagner
+279,Missouri 3rd District,U.S. Representative,"Luetkemeyer, Blaine",R,@RepBlaine
+280,Missouri 4th District,U.S. Representative,"Hartzler, Vicky",R,@RepHartzler
+281,Missouri 5th District,U.S. Representative,"Cleaver, Emanuel",D,@repcleaver
+282,Missouri 6th District,U.S. Representative,"Graves, Sam",R,@RepSamGraves
+283,Missouri 7th District,U.S. Representative,"Long, Billy",R,@USRepLong
+284,Missouri 8th District,U.S. Representative,"Smith, Jason",R,@RepJasonSmith
+285,Montana,U.S. Senator,"Tester, Jon",D,@SenatorTester
+286,Montana,U.S. Senator,"Daines, Steve",R,@SteveDaines
+287,Montana At-Large,U.S. Representative,"Rosendale, Matt",R,@MattForMontana
+288,Nebraska,U.S. Senator,"Sasse, Ben",R,@SenSasse
+289,Nebraska,U.S. Senator,"Fischer, Deb",R,@SenatorFischer
+290,Nebraska 1st District,U.S. Representative,"Fortenberry, Jeff",R,@JeffFortenberry
+291,Nebraska 2nd District,U.S. Representative,"Bacon, Don",R,@RepDonBacon
+292,Nebraska 3rd District,U.S. Representative,"Smith, Adrian",R,@RepAdrianSmith
+293,Nevada,U.S. Senator,"Rosen, Jacky",D,@SenJackyRosen
+294,Nevada,U.S. Senator,"Cortez Mastro, Catherine",D,@CatherineForNV
+295,Nevada 1st District,U.S. Representative,"Titus, Dina",D,@repdinatitus
+296,Nevada 2nd District,U.S. Representative,"Amodei, Mark",R,@MarkAmodeiNV2
+297,Nevada 3rd District,U.S. Representative,"Lee, Susie",D,@RepSusieLee
+298,Nevada 4th District,U.S. Representative,"Horsford, Steven",D,@RepHorsford
+299,New Hampshire,U.S. Senator,"Shaheen, Jeanne",D,@SenatorShaheen
+300,New Hampshire,U.S. Senator,"Hassan, Maggie",D,@Maggie_Hassan
+301,New Hampshire 1st District,U.S. Representative,"Pappas, Chris",D,@RepChrisPappas
+302,New Hampshire 2nd District,U.S. Representative,"Kuster, Ann",D,@RepAnnieKuster
+303,New Jersey,U.S. Senator,"Menendez, Robert",D,@SenatorMenendez
+304,New Jersey,U.S. Senator,"Booker, Cory",D,@CoryBooker
+305,New Jersey 1st District,U.S. Representative,"Norcross, Donald",D,@DonNorcross4NJ
+306,New Jersey 2nd District,U.S. Representative,"Van Drew, Jefferson",D,@JeffVanDrew
+307,New Jersey 3rd District,U.S. Representative,"Kim, Andy",D,@RepAndyKimNJ
+308,New Jersey 4th District,U.S. Representative,"Smith, Chris",R,@RepChrisSmith
+309,New Jersey 5th District,U.S. Representative,"Gottheimer, Josh",D,@JoshGottheimer
+310,New Jersey 6th District,U.S. Representative,"Pallone Jr., Frank",D,@FrankPallone
+311,New Jersey 7th District,U.S. Representative,"Malinowski, Tom",D,@RepMalinowski
+312,New Jersey 8th District,U.S. Representative,"Sires, Albio",D,@RepSires
+313,New Jersey 9th District,U.S. Representative,"Pascrell Jr., Bill",D,@BillPascrell
+314,New Jersey 10th District,U.S. Representative,"Payne Jr., Donald",D,@RepDonaldPayne
+315,New Jersey 11th District,U.S. Representative,"Sherrill, Mikie",D,@RepSherrill
+316,New Jersey 12th District,U.S. Representative,"Watson Coleman, Bonnie",D,@RepBonnie
+317,New Mexico,U.S. Senator,"Luján, Ben Ray",D,@SenatorLujan
+318,New Mexico,U.S. Senator,"Heinrich, Martin",D,@MartinHeinrich
+319,New Mexico 1st District,U.S. Representative,"Stansbury, Melanie",D,@Rep_Stansbury
+320,New Mexico 2nd District,U.S. Representative,"Herrell, Yvette",R,@Yvette4congress
+321,New Mexico 3rd District,U.S. Representative,"Fernandez, Teresa Leger",D,@TeresaForNM
+322,New York,U.S. Senator,"Schumer, Chuck",D,@SenSchumer
+323,New York,U.S. Senator,"Gillibrand, Kirsten",D,@SenGillibrand
+324,New York 1st District,U.S. Representative,"Zeldin, Lee",R,@RepLeeZeldin
+325,New York 2nd District,U.S. Representative,"Garbarino, Andrew",R,
+326,New York 3rd District,U.S. Representative,"Suozzi, Tom",D,@Tom_Suozzi
+327,New York 4th District,U.S. Representative,"Rice, Kathleen",D,@RepKathleenRice
+328,New York 5th District,U.S. Representative,"Meeks, Gregory W.",D,@RepGregoryMeeks
+329,New York 6th District,U.S. Representative,"Meng, Grace",D,@RepGraceMeng
+330,New York 7th District,U.S. Representative,"Velázquez, Nydia M.",D,@NydiaVelazquez
+331,New York 8th District,U.S. Representative,"Jeffries, Hakeem",D,@RepJeffries
+332,New York 9th District,U.S. Representative,"Clarke, Yvette D.",D,@RepYvetteClarke
+333,New York 10th District,U.S. Representative,"Nadler, Jerrold",D,@RepJerryNadler
+334,New York 11th District,U.S. Representative,"Malliotakis, Nicole",D,@Nmalliotakis
+335,New York 12th District,U.S. Representative,"Maloney, Carolyn",D,@RepMaloney
+336,New York 13th District,U.S. Representative,"Espaillat, Adriano",D,@EspaillatNY
+337,New York 14th District,U.S. Representative,"Ocasio-Cortez, Alexandria",D,@RepAOC
+338,New York 15th District,U.S. Representative,"Torres, Ritchie",D,@RitchieTorres
+339,New York 16th District,U.S. Representative,"Bowman, Jamaal",D,@JamaalBowmanNY
+340,New York 17th District,U.S. Representative,"Jones, Mondaire",D,@MondaireJones
+341,New York 18th District,U.S. Representative,"Maloney, Sean Patrick",D,@RepSeanMaloney
+342,New York 19th District,U.S. Representative,"Delgado, Antonio",D,@RepDelgado
+343,New York 20th District,U.S. Representative,"Tonko, Paul D.",D,@RepPaulTonko
+344,New York 21st District,U.S. Representative,"Stefanik, Elise",R,@RepStefanik
+345,New York 22nd District,U.S. Representative,"Tenney, Claudia",R,@claudiatenney
+346,New York 23rd District,U.S. Representative,"Reed, Tom",R,@RepTomReed
+347,New York 24th District,U.S. Representative,"Katko, John",R,@RepJohnKatko
+348,New York 25th District,U.S. Representative,"Morelle, Joseph",D,@RepJoeMorelle
+349,New York 26th District,U.S. Representative,"Higgins, Brian",D,@RepBrianHiggins
+350,New York 27th District,U.S. Representative,"Jacobs, Chris",R,@jacobsny27
+351,North Carolina,U.S. Senator,"Tillis, Thom",R,@SenThomTillis
+352,North Carolina,U.S. Senator,"Burr, Richard",R,@SenatorBurr
+353,North Carolina 1st District,U.S. Representative,"Butterfield, G.K.",D,@GKButterfield
+354,North Carolina 2nd District,U.S. Representative,"Ross, Deborah K.",D,@DeborahRossNC
+355,North Carolina 3rd District,U.S. Representative,"Murphy, Greg",R,@RepGregMurphy
+356,North Carolina 4th District,U.S. Representative,"Price, David",D,@RepDavidEPrice
+357,North Carolina 5th District,U.S. Representative,"Foxx, Virginia",R,@virginiafoxx
+358,North Carolina 6th District,U.S. Representative,"Manning, Kathy",D,@KathyManningNC
+359,North Carolina 7th District,U.S. Representative,"Rouzer, David",R,@RepDavidRouzer
+360,North Carolina 8th District,U.S. Representative,"Hudson, Richard",R,@RepRichHudson
+361,North Carolina 9th District,U.S. Representative,"Bishop, Dan",R,@jdanbishop
+362,North Carolina 10th District,U.S. Representative,"McHenry, Patrick T.",R,@PatrickMcHenry
+363,North Carolina 11th District,U.S. Representative,"Cawthorn, Madison",R,@CawthornforNC
+364,North Carolina 12th District,U.S. Representative,"Adams, Alma",D,@RepAdams
+365,North Carolina 13th District,U.S. Representative,"Budd, Ted",R,@BuddforCongress
+366,North Dakota,U.S. Senator,"Hoeven, John",R,@SenJohnHoeven
+367,North Dakota,U.S. Senator,"Cramer, Kevin",R,@SenKevinCramer
+368,North Dakota At-Large,U.S. Representative,"Armstrong, Kelly",R,@RepArmstrongND
+369,Northern Mariana Islands At-Large,U.S. Representative,"Sablan, Gregorio",D,@Kilili_Sablan
+370,Ohio,U.S. Senator,"Portman, Rob",R,@senrobportman
+371,Ohio,U.S. Senator,"Brown, Sherrod",D,@SenSherrodBrown
+372,Ohio 1st District,U.S. Representative,"Chabot, Steve",R,@RepSteveChabot
+373,Ohio 2nd District,U.S. Representative,"Wenstrup, Brad",R,@RepBradWenstrup
+374,Ohio 3rd District,U.S. Representative,"Beatty, Joyce",D,@RepBeatty
+375,Ohio 4th District,U.S. Representative,"Jordan, Jim",R,@Jim_Jordan
+376,Ohio 5th District,U.S. Representative,"Latta, Robert E.",R,@boblatta
+377,Ohio 6th District,U.S. Representative,"Johnson, Bill",R,@RepBillJohnson
+378,Ohio 7th District,U.S. Representative,"Gibbs, Bob",R,@RepBobGibbs
+379,Ohio 8th District,U.S. Representative,"Davidson, Warren",R,@WarrenDavidson
+380,Ohio 9th District,U.S. Representative,"Kaptur, Marcy",D,@RepMarcyKaptur
+381,Ohio 10th District,U.S. Representative,"Turner, Michael",R,@RepMikeTurner
+382,Ohio 11th District,U.S. Representative,"Brown, Shontel",D,@ShontelMBrown
+383,Ohio 12th District,U.S. Representative,"Balderson, Troy",R,@RepBalderson
+384,Ohio 13th District,U.S. Representative,"Ryan, Tim",D,@RepTimRyan
+385,Ohio 14th District,U.S. Representative,"Joyce, David",R,@RepDaveJoyce
+386,Ohio 15th District,U.S. Representative,"Carey, Mike",R,@MikeCareyOH15
+387,Ohio 16th District,U.S. Representative,"Gonzalez, Anthony",R,@RepAGonzalez
+388,Oklahoma,U.S. Senator,"Lankford, James",R,@SenatorLankford
+389,Oklahoma,U.S. Senator,"Inhofe, Jim",R,@InhofePress
+390,Oklahoma 1st District,U.S. Representative,"Hern, Kevin",R,@RepKevinHern
+391,Oklahoma 2nd District,U.S. Representative,"Mullin, Markwayne",R,@RepMullin
+392,Oklahoma 3rd District,U.S. Representative,"Lucas, Frank",R,@RepFrankLucas
+393,Oklahoma 4th District,U.S. Representative,"Cole, Tom",R,@TomColeOK04
+394,Oklahoma 5th District,U.S. Representative,"Bice, Stephanie",R,@stephaniebice
+395,Oregon,U.S. Senator,"Wyden, Ron",D,@RonWyden
+396,Oregon,U.S. Senator,"Merkley, Jeff",D,@SenJeffMerkley
+397,Oregon 1st District,U.S. Representative,"Bonamici, Suzanne",D,@RepBonamici
+398,Oregon 2nd District,U.S. Representative,"Bentz, Cliff",R,@RepBentz
+399,Oregon 3rd District,U.S. Representative,"Blumenauer, Earl",D,@repblumenauer
+400,Oregon 4th District,U.S. Representative,"DeFazio, Peter",D,@RepPeterDeFazio
+401,Oregon 5th District,U.S. Representative,"Schrader, Kurt",D,@RepSchrader
+402,Puerto Rico At-Large,U.S. Representative,"Gonzalez-Colon, Jenniffer",R,@Jenniffer2012
+403,Pennsylvania,U.S. Senator,"Toomey, Patrick",R,@SenToomey
+404,Pennsylvania,U.S. Senator,"Casey, Bob Jr.",D,@SenBobCasey
+405,Pennsylvania 1st District,U.S. Representative,"Fitzpatrick, Brady",R,@RepBrianFitz
+406,Pennsylvania 2nd District,U.S. Representative,"Boyle, Brendan",D,@CongBoyle
+407,Pennsylvania 3rd District,U.S. Representative,"Evans, Dwight",D,@RepDwightEvans
+408,Pennsylvania 4th District,U.S. Representative,"Dean, Madeleine",D,@RepDean
+409,Pennsylvania 5th District,U.S. Representative,"Scanlon, Mary-Gay",D,@RepMGS
+410,Pennsylvania 6th District,U.S. Representative,"Houlahan, Chrissy",D,@RepHoulahan
+411,Pennsylvania 7th District,U.S. Representative,"Wild, Susan",D,@RepSusanWild
+412,Pennsylvania 8th District,U.S. Representative,"Cartwright, Matt",D,@RepCartwright
+413,Pennsylvania 9th District,U.S. Representative,"Meuser, Daniel",R,@RepMeuser
+414,Pennsylvania 10th District,U.S. Representative,"Perry, Scott",R,@RepScottPerry
+415,Pennsylvania 11th District,U.S. Representative,"Smucker, Lloyd",R,@RepLloyd
+416,Pennsylvania 12th District,U.S. Representative,"Keller, Fred",R,@RepFredKelle
+417,Pennsylvania 13th District,U.S. Representative,"Joyce, John",R,@RepJohnJoyce
+418,Pennsylvania 14th District,U.S. Representative,"Reschenthaler, Guy",R,@GReschenthaler
+419,Pennsylvania 15th District,U.S. Representative,"Thompson, Glenn",R,@CongressmanGT
+420,Pennsylvania 16th District,U.S. Representative,"Kelly, Mike",R,@MikeKellyforPA
+421,Pennsylvania 17th District,U.S. Representative,"Lamb, Conor",D,@RepConorLamb
+422,Pennsylvania 18th District,U.S. Representative,"Doyle, Michael",D,@USRepMikeDoyle
+423,Rhode Island,U.S. Senator,"Whitehouse, Sheldon",D,@SenWhitehouse
+424,Rhode Island,U.S. Senator,"Reed, Jack",D,@SenJackReed
+425,Rhode Island 1st District,U.S. Representative,"Cicilline, David",D,@RepCicilline
+426,Rhode Island 2nd District,U.S. Representative,"Langevin, Jim",D,@jimlangevin
+427,South Carolina,U.S. Senator,"Scott, Tim",R,@SenatorTimScott
+428,South Carolina,U.S. Senator,"Graham, Lindsey",R,@LindsayGrahamSC
+429,South Carolina 1st District,U.S. Representative,"Mace, Nancy",R,@NancyMace
+430,South Carolina 2nd District,U.S. Representative,"Wilson, Joe",R,@RepJoeWilson
+431,South Carolina 3rd District,U.S. Representative,"Duncan, Jeff",R,@RepJeffDuncan
+432,South Carolina 4th District,U.S. Representative,"Timmons, William",R,@RepTimmons
+433,South Carolina 5th District,U.S. Representative,"Norman, Ralph",R,@RepRalphNorman
+434,South Carolina 6th District,U.S. Representative,"Clyburn, James E.",D,@WhipClyburn
+435,South Carolina 7th District,U.S. Representative,"Rice, Tom",R,@RepTomRice
+436,South Dakota,U.S. Senator,"Thune, John",R,@SenJohnThune
+437,South Dakota,U.S. Senator,"Rounds, Mike",R,@SenatorRounds
+438,South Dakota At-Large,U.S. Representative,"Johnson, Dusty",R,@RepDustyJohnson
+439,Tennessee,U.S. Senator,"Blackburn, Marsha",R,@MarshaBlackburn
+440,Tennessee,U.S. Senator,"Hagerty, Bill",R,@BillHagertyTN
+441,Tennessee 1st District,U.S. Representative,"Harshbarger, Diana",R,@DHarshbargerTN1
+442,Tennessee 2nd District,U.S. Representative,"Burchett, Tim",R,@RepTimBurchett
+443,Tennessee 3rd District,U.S. Representative,"Fleischmann, Chuck",R,@RepChuck
+444,Tennessee 4th District,U.S. Representative,"DesJarlais, Scott",R,@DesJarlaisTN04
+445,Tennessee 5th District,U.S. Representative,"Cooper, Jim",D,@repjimcooper
+446,Tennessee 6th District,U.S. Representative,"Rose, John W.",R,@RepJohnRose
+447,Tennessee 7th District,U.S. Representative,"Green, Mark",R,@RepMarkGreen
+448,Tennessee 8th District,U.S. Representative,"Kustoff, David",R,@DavidKustoff
+449,Tennessee 9th District,U.S. Representative,"Cohen, Steve",D,@RepCohen
+450,Texas,U.S. Senator,"Cruz, Ted",R,@SenTedCruz
+451,Texas,U.S. Senator,"Cornyn, John",R,@JohnCornyn
+452,Texas 1st District,U.S. Representative,"Gohmert, Louie",R,@replouiegohmert
+453,Texas 2nd District,U.S. Representative,"Crenshaw, Dan",R,@RepDanCrenshaw
+454,Texas 3rd District,U.S. Representative,"Taylor, Van",R,@RepVanTaylor
+455,Texas 4th District,U.S. Representative,"Fallon, Pat",R,@FallonForTexas
+456,Texas 5th District,U.S. Representative,"Gooden, Lance",R,@Lancegooden
+457,Texas 6th District,U.S. Representative,"Ellzey, Jake",R,@JakeEllzey
+458,Texas 7th District,U.S. Representative,"Fletcher, Lizzie",D,@RepFletcher
+459,Texas 8th District,U.S. Representative,"Brady, Kevin",R,@RepKevinBrady
+460,Texas 9th District,U.S. Representative,"Green, Al",D,@RepAlGreen
+461,Texas 10th District,U.S. Representative,"McCaul, Michael T.",R,@RepMcCaul
+462,Texas 11th District,U.S. Representative,"Pfluger, August",R,@AugustPfluger
+463,Texas 12th District,U.S. Representative,"Granger, Kay",R,@RepKayGranger
+464,Texas 13th District,U.S. Representative,"Jackson, Ronny",R,@RonnyJacksonTX
+465,Texas 14th District,U.S. Representative,"Weber, Randy",R,@TXRandy14
+466,Texas 15th District,U.S. Representative,"Gonzalez, Vincente",D,@RepGonzalez
+467,Texas 16th District,U.S. Representative,"Escobar, Veronica ",D,@RepEscobar
+468,Texas 17th District,U.S. Representative,"Sessions, Pete",R,@SessionsTX17
+469,Texas 18th District,U.S. Representative,"Jackson Lee, Sheila",D,@JacksonLeeTX18
+470,Texas 19th District,U.S. Representative,"Arrington, Jodey",R,@JodeyArrington
+471,Texas 20th District,U.S. Representative,"Castro, Joaquin",D,@JoaquinCastrotx
+472,Texas 21st District,U.S. Representative,"Roy, Chip",R,@RepChipRoy
+473,Texas 22nd District,U.S. Representative,"Nehls, Troy",R,@SheriffTNehls
+474,Texas 23rd District,U.S. Representative,"Gonzales, Tony",R,@TonyGonzales4TX
+475,Texas 24th District,U.S. Representative,"Van Duyne, Beth",R,@Bethvanduyne
+476,Texas 25th District,U.S. Representative,"Williams, Roger",R,@RepRWilliams
+477,Texas 26th District,U.S. Representative,"Burgess, Michael",R,@michaelcburgess
+478,Texas 27th District,U.S. Representative,"Cloud, Michael",R,@RepCloudTX
+479,Texas 28th District,U.S. Representative,"Cuellar, Henry",D,@RepCuellar
+480,Texas 29th District,U.S. Representative,"Garcia, Sylvia",D,@RepSylviaGarcia
+481,Texas 30th District,U.S. Representative,"Johnson, Eddie Bernice",D,@RepEBJ
+482,Texas 31st District,U.S. Representative,"Carter, John",R,@JudgeCarter
+483,Texas 32nd District,U.S. Representative,"Allred, Colin",D,@RepColinAllred
+484,Texas 33rd District,U.S. Representative,"Veasey, Marc",D,@RepVeasey
+485,Texas 34th District,U.S. Representative,"Vela, Filemon",D,@RepFilemonVela
+486,Texas 35th District,U.S. Representative,"Doggett, Lloyd",D,@RepLloydDoggett
+487,Texas 36th District,U.S. Representative,"Babin, Brian",R,@RepBrianBabin
+488,Utah,U.S. Senator,"Lee, Mike",R,@SenMikeLee
+489,Utah,U.S. Senator,"Romney, Mitt",R,@SenatorRomney
+490,Utah 1st District,U.S. Representative,"Moore, Blake",R,@RepBlakeMoore
+491,Utah 2nd District,U.S. Representative,"Stewart, Chris",R,@RepChrisStewart
+492,Utah 3rd District,U.S. Representative,"Curtis, John R.",R,@RepJohnCurtis
+493,Utah 4th District,U.S. Representative,"Owens, Burgess",R,@BurgessOwens
+494,Vermont,U.S. Senator,"Leahy, Patrick",D, @SenatorLeahy
+495,Vermont At-Large,U.S. Representative,"Welch, Peter",D,@PeterWelch
+496,Virginia,U.S. Senator,"Warner, Mark",D,@MarkWarner
+497,Virginia,U.S. Senator,"Kaine, Tim",D,@timkaine
+498,Virginia 1st District,U.S. Representative,"Wittman, Robert J.",R,@RobWittman
+499,Virginia 2nd District,U.S. Representative,"Luria, Elaine",D,@RepElaineLuria
+500,Virginia 3rd District,U.S. Representative,"Scott, Robert C.",D,@BobbyScott
+501,Virginia 4th District,U.S. Representative,"McEacchin, Donald",R,@Donald_McEachin
+502,Virginia 5th District,U.S. Representative,"Good, Bob",R,@GoodForCongress
+503,Virginia 6th District,U.S. Representative,"Cline, Ben",R,@RepBenCline
+504,Virginia 7th District,U.S. Representative,"Spanberger, Abigail",D,@RepSpanberger
+505,Virginia 8th District,U.S. Representative,"Beyer, Don",D,@RepDonBeyer
+506,Virginia 9th District,U.S. Representative,"Griffith, Morgan",R,@RepMGriffith
+507,Virginia 10th District,U.S. Representative,"Wexton, Jennifer",D,@RepWexton
+508,Virginia 11th District,U.S. Representative,"Connolly, Gerald E. “Gerry”",D,@GerryConnolly
+509,Virgin Islands At-Large,U.S. Representative,"Plaskett, Stacey",D,@StaceyPlaskett
+510,Washington,U.S. Senator,"Murray, Patty",D,@PattyMurray
+511,Washington,U.S. Senator,"Cantwell, Maria",D,@SenatorCantwell
+512,Washington 1st District,U.S. Representative,"DelBene, Suzan",D,@RepDelBene
+513,Washington 2nd District,U.S. Representative,"Larsen, Rick",D,@RepRickLarsen
+514,Washington 3rd District,U.S. Representative,"Herrera Beutler, Jaime",R,@HerreraBeutler
+515,Washington 4th District,U.S. Representative,"Newhouse, Dan",R,@RepNewhouse
+516,Washington 5th District,U.S. Representative,"McMorris Rodgers, Cathy",R,@cathymcmorris
+517,Washington 6th District,U.S. Representative,"Kilmer, Derek",D,@RepDerekKilmer
+518,Washington 7th District,U.S. Representative,"Jayapal, Pramila",D,@PramilaJayapal
+519,Washington 8th District,U.S. Representative,"Schrier, Kim",D,@RepKimSchrier
+520,Washington 9th District,U.S. Representative,"Smith, Adam",D,@RepAdamSmith
+521,Washington 10th District,U.S. Representative,"Strickland, Marilyn",D,@StricklandforWA
+522,West Virginia,U.S. Senator,"Manchin, Joe",D,@Sen_JoeManchin
+523,West Virginia,U.S. Senator,"Moore Capito, Shelley",R,@SenCapito
+524,West Virginia 1st District,U.S. Representative,"McKinley, David",R,@RepMcKinley
+525,West Virginia 2nd District,U.S. Representative,"Mooney, Alex",R,@RepAlexMooney
+526,West Virginia 3rd District,U.S. Representative,"Miller, Carol",R,@RepCarolMiller
+527,Wisconsin,U.S. Senator,"Johnson, Ron",R,@SenRonJohnson
+528,Wisconsin,U.S. Senator,"Baldwin, Tammy",D,@SenatorBaldwin
+529,Wisconsin 1st District,U.S. Representative,"Steil, Bryan",D,@RepBryanSteil
+530,Wisconsin 2nd District,U.S. Representative,"Pocan, Mark",D,@repmarkpocan
+531,Wisconsin 3rd District,U.S. Representative,"Kind, Ron",D,@RepRonKind
+532,Wisconsin 4th District,U.S. Representative,"Moore, Gwen",D,@RepGwenMoore
+533,Wisconsin 5th District,U.S. Representative,"Fitzgerald, Scott",R,@FitzgeraldForWI
+534,Wisconsin 6th District,U.S. Representative,"Grothman, Glenn",R,@RepGrothman
+535,Wisconsin 7th District,U.S. Representative,"Tiffany, Thomas",R,@TomTiffanyWI
+536,Wisconsin 8th District,U.S. Representative,"Gallagher, Mike",R,@MikeforWI
+537,Wyoming,U.S. Senator,"Lummis, Cynthia",R,@SenLummis
+538,Wyoming,U.S. Senator,"Barrasso, John",R,@SenJohnBarrasso
+539,Wyoming At-Large,U.S. Representative,"Cheney, Liz",R,@Liz_Cheney
