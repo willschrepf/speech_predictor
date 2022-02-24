@@ -1,18 +1,25 @@
-import scraper
 import pandas as pd
+import glob
 
-training_data = pd.read_csv("moc_training_data.csv")
-test_data = pd.read_csv("moc_test_data.csv")
-                   
+path = r'C:\Users\wills\Desktop\gov52\data' # use your path
+all_files = glob.glob(path + "/*.csv")
+
+li = []
+
+for filename in all_files:
+    df = pd.read_csv(filename, index_col=None, header=0)
+    li.append(df)
+
+tweets_training_df = pd.concat(li, axis=0, ignore_index=True)
+
+tweets_training_df.rename(columns = {'Unnamed: 0':'user_tweet_num', 'Datetime':'datetime', 'Tweet Id':'tweet_id', 'Text':'raw_text', 'Username':'twitter_handle'}, inplace = True)
+
+training_data = pd.read_csv("moc_training_data.csv").drop('Unnamed: 0', 1)
 training_data = training_data.replace('@', '', regex=True)
-test_data = test_data.replace('@', '', regex=True)
 
+full_training_data = tweets_training_df.merge(training_data,on='twitter_handle',how='left')
+full_training_data = full_training_data.dropna()
 
-# for i in (training_data.index):
-#     handle = training_data['twitter_handle'][i]
-#     scraper.get_user_tweets(handle)
+print(full_training_data)
 
-
-for i in (test_data.index):
-    handle = test_data['twitter_handle'][i]
-    scraper.get_user_tweets(handle)
+# https://medium.com/analytics-vidhya/text-classification-using-word-embeddings-and-deep-learning-in-python-classifying-tweets-from-6fe644fcfc81
