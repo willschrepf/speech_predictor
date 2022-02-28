@@ -1,5 +1,7 @@
 import pandas as pd
 import glob
+import re
+import numpy as np
 
 path = r'C:\Users\wills\Desktop\gov52\data' # use your path
 all_files = glob.glob(path + "/*.csv")
@@ -20,6 +22,3 @@ training_data = training_data.replace('@', '', regex=True)
 full_training_data = tweets_training_df.merge(training_data,on='twitter_handle',how='left')
 full_training_data = full_training_data.dropna()
 
-print(full_training_data)
-
-# https://medium.com/analytics-vidhya/text-classification-using-word-embeddings-and-deep-learning-in-python-classifying-tweets-from-6fe644fcfc81

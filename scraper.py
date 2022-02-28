@@ -1,7 +1,7 @@
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
 
-# function to get least 1000 tweets from a particular user
+# function to last 250 tweets from a particular user
 def get_user_tweets(username):
     
     # start with a blank list
