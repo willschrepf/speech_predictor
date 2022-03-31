@@ -55,21 +55,7 @@ test_data = test_data.replace('@', '', regex=True)
 full_test_data = tweets_test_df.merge(test_data,on='twitter_handle',how='left')
 test_data = full_test_data.dropna()
 
-# data = fetch_20newsgroups()
-# text_categories = data.target_names
-# train_data = fetch_20newsgroups(subset="train", categories=text_categories)
-# test_data = fetch_20newsgroups(subset="test", categories=text_categories)
-
-# model = make_pipeline(TfidfVectorizer(), MultinomialNB())
-# model.fit(train_data.data, train_data.target)
-# predicted_categories = model.predict(test_data.data)
-
-# mat = confusion_matrix(test_data.target, predicted_categories)
-# # sns.heatmap(mat.T, square = True, annot=True, fmt = "d", xticklabels=train_data.target_names,yticklabels=train_data.target_names)
-# # plt.xlabel("true labels")
-# # plt.ylabel("predicted label")
-# # plt.show()
-# print("The accuracy is {}".format(accuracy_score(test_data.target, predicted_categories)))
+## make model
 
 model = make_pipeline(TfidfVectorizer(), MultinomialNB())
 model.fit(train_data.raw_text, train_data.party)
@@ -77,21 +63,9 @@ predicted_categories = model.predict(test_data.raw_text)
 
 print("The accuracy is {}".format(accuracy_score(test_data.party, predicted_categories)))
 
-print(predicted_categories)
-
 mat = confusion_matrix(test_data.party, predicted_categories)
-
-print(mat)
-
-# sns.heatmap(mat.T, square = True, annot=True, fmt = "d", xticklabels=train_data.party, yticklabels=train_data.party)
-# plt.xlabel("true labels")
-# plt.ylabel("predicted label")
-# plt.show()
-
 disp = ConfusionMatrixDisplay(confusion_matrix=mat)
-
 disp.plot()
-
 plt.show()
 
 # def my_predictions(my_sentence, model):
@@ -102,3 +76,13 @@ plt.show()
 # my_sentence = "god bless trump"
 
 # print(my_predictions(my_sentence, model))
+
+# def my_predictions(my_sentence, model):
+#     all_categories_names = np.array(data.target_names)
+#     prediction = model.predict([my_sentence])
+#     return all_categories_names[prediction]
+# my_sentence = “jesus”
+# print(my_predictions(my_sentence, model))
+# ['soc.religion.christian']my_sentence = "Are you an atheist?"
+# print(my_predictions(my_sentence, model))
+# ['alt.atheism']
